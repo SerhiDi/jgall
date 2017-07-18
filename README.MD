@@ -1,8 +1,8 @@
-#Inctruction
+# Inctruction
 
 <b>jgall</b> image gallery plugin
 
-####Settings:
+#### Settings:
 
 1. Add jQuery and <b>jgall</b> plugin
 
@@ -18,7 +18,7 @@ jQuery
 3. Setup plugin
 
 HTML
-
+```html
     <div class="image-gallery">
 
       <ul class="images-wrapper">
@@ -34,7 +34,7 @@ HTML
       </ul>
 
     </div>
-
+```
 Javascript
 
 ```javascript
