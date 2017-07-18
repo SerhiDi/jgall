@@ -15,7 +15,7 @@ jQuery
 `<link rel="stylesheet" href="js/jgall.css">`
 
 
-3. Setup plugin
+2. Setup plugin
 
 HTML
 ```html
@@ -47,6 +47,7 @@ Javascript
     paginActiveColor: '#169fb5'
   });
 ```
+Options:
 
 - $('.image-gallery') - image gallery block
 - imagesWrapper - images list class
